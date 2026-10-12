@@ -3,7 +3,7 @@
     padding: 0;
 }
 .nav{
-    background-color: red;
+    background-color: rgb(0, 0, 0);
     height: 100px;
     position: relative;
     display: flex;
@@ -22,8 +22,8 @@
     color: yellow;
 }
 .logo{
-    width: 120px;
-    height: 100px;
+    width: 130px;
+    height: 110px;
     background-image: url(Logo.png);
     background-size: 120px 100px;
     position: absolute;
